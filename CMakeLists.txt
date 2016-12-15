@@ -7,7 +7,7 @@
 #=====================================================================#
 
 
-set(CMAKE_TOOLCHAIN_FILE ~/git/arduino-cmake/cmake/ArduinoToolchain.cmake)
+set(CMAKE_TOOLCHAIN_FILE arduino-cmake/cmake/ArduinoToolchain.cmake)
 
 cmake_minimum_required(VERSION 3.6)
 
